@@ -1,23 +1,23 @@
 {
-  "value": [
-    {
-      "mctools_pluginid": "d5239dff-c8fa-e711-811e-5065f38b05a1",
-      "mctools_name": "Access Checker",
-      "mctools_version": "1.2022.3.6",
-      "mctools_description": "Check record access rights for a user",
-      "mctools_authors": "MscrmTools",
-      "mctools_categorieslist": "Security,Troubleshooting",
-      "mctools_downloadurl": "https://api.nuget.org/v3-flatcontainer/mscrmtools.accesschecker/1.2022.3.6/mscrmtools.accesschecker.1.2022.3.6.nupkg",
-      "mctools_files": "MsCrmTools.AccessChecker.nuspec\r\nlib/net452/Plugins/MsCrmTools.AccessChecker.dll\r\n.signature.p7s",
-      "mctools_firstreleasedate": "2016-05-23T11:40:45Z",
-      "mctools_latestreleasedate": "2022-03-25T13:41:01Z",
-      "mctools_logourl": null,
-      "mctools_nugetid": "MscrmTools.AccessChecker",
-      "mctools_projecturl": "https://github.com/MscrmTools/MsCrmTools.AccessChecker",
-      "mctools_xrmtoolboxversiondependency": "1.2016.4.28",
-      "mctools_latestreleasenote": "PCH approved test package",
-      "mctools_licenseurl": null,
-      "mctools_requirelicenseacceptance": false
-    }
-  ]
+    "value": [
+        {
+            "mctools_pluginid": "d5239dff-c8fa-e711-811e-5065f38b05a1",
+            "mctools_name": "Access Checker",
+            "mctools_version": "1.2022.3.6",
+            "mctools_description": "Check a record access rights for a user",
+            "mctools_authors": "MscrmTools",
+            "mctools_categorieslist": "Security,Troubleshooting",
+            "mctools_downloadurl": "https://api.nuget.org/v3-flatcontainer/mscrmtools.accesschecker/1.2022.3.6/mscrmtools.accesschecker.1.2022.3.6.nupkg",
+            "mctools_files": "MsCrmTools.AccessChecker.nuspec\r\nlib/net452/Plugins/MsCrmTools.AccessChecker.dll\r\n.signature.p7s",
+            "mctools_firstreleasedate": "2016-05-23T11:40:45",
+            "mctools_latestreleasedate": "2022-03-25T13:41:01",
+            "mctools_logourl": "https://www.mysite.com/myLogo.png",
+            "mctools_nugetid": "MscrmTools.AccessChecker",
+            "mctools_projecturl": "https://github.com/MscrmTools/MsCrmTools.AccessChecker",
+            "mctools_xrmtoolboxversiondependency": "1.2016.4.28",
+            "mctools_latestreleasenote": "Handle back scenario when not connected using OAuth (ie. no access to webapi)\n      Fixed retrieval of primary name for searched record",
+            "mctools_licenseurl": null,
+            "mctools_requirelicenseacceptance": null,
+        }
+    ]
 }
