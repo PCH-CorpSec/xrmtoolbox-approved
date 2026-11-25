@@ -4,7 +4,7 @@
       "mctools_pluginid": "d5239dff-c8fa-e711-811e-5065f38b05a1",
       "mctools_name": "Access Checker",
       "mctools_version": "1.2022.3.6",
-      "mctools_description": "Check record access rights for a user",
+      "mctools_description": "Check a record access rights for a user",
       "mctools_authors": "MscrmTools",
       "mctools_categorieslist": "Security,Troubleshooting",
       "mctools_downloadurl": "https://api.nuget.org/v3-flatcontainer/mscrmtools.accesschecker/1.2022.3.6/mscrmtools.accesschecker.1.2022.3.6.nupkg",
